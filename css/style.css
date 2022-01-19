@@ -36,6 +36,9 @@ main{
     background-color: rgb(225, 214, 122);
 }
 
+
+/* Section style and footer */
+
 section{
     padding:0 20px;
 }
@@ -83,4 +86,4 @@ section{
     height: 150px;
     margin-top: 10px;
     background-color: rgb(136, 1, 254);
-}
+} 
