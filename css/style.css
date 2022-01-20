@@ -63,7 +63,7 @@ section{
 }
 
 .aside{
-    width: calc((100% / 4) - 20px);
+    width: calc((50% / 2) - 20px);
 }
 
 .center{
